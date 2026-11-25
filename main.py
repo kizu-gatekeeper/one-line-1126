@@ -1,4 +1,7 @@
-"""Entry for make.fun: One Line, One Laugh."""
+"""Entry for make.fun: One Line, One Laugh.
+
+A single self-contained joke that lands in one breath.
+"""
 import os
 
 LINE = "My houseplant died of neglect, so now I water my excuses - they are the only thing in my life still growing."
